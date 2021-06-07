@@ -1,0 +1,176 @@
+body {
+  margin: 0;
+  background-color: #f4f9f9;
+}
+
+.top-container {
+  background-color: #e3fdfd;
+  padding: 60px;
+  text-align: center;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 70px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 350px;
+}
+
+.mountain {
+  margin: 0;
+}
+
+.middle-container {
+  text-align: center;
+  padding: 0;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+  color: #66BFBF;
+  margin-top: 120px;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+.pro {
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  margin-top: 50px;
+}
+
+p {
+  font-family: 'Mate SC', serif;
+  font-size: 1.5rem;
+}
+
+.giphy {
+  width: 15%;
+  float: left;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+
+.gaming {
+  width: 15%;
+  float: right;
+
+  margin-top: 0;
+
+}
+
+.skills {
+  margin: 0 100px;
+  text-align: left;
+}
+
+.skill-row {
+  margin: 100px;
+}
+
+.Hobbies {
+  margin: 100px 0;
+  margin-right: 300px;
+
+}
+
+.para {
+
+  text-align: left;
+  margin-left: 100px;
+
+}
+
+hr {
+  border: dotted #e8e8e8 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 130px auto 100px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 100px;
+  text-align: center;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  margin: 10px 40px;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.contact-me {
+  text-align: center;
+}
+
+.footer-link {
+  color: #11999E;
+  line-height: 3;
+  width: 100%;
+  text-align: center;
+}
+
+.last-p {
+  margin-top: 0;
+  color: #EAF6F6;
+  font-size: 1rem;
+  font-family: 'Anton', sans-serif;
+  width: 100%;
+}
+
+.BUTTON_AUS {
+  background: #0114C4;
+  background-image: -webkit-linear-gradient(top, #0114C4, #001111);
+  background-image: -moz-linear-gradient(top, #0114C4, #001111);
+  background-image: -ms-linear-gradient(top, #0114C4, #001111);
+  background-image: -o-linear-gradient(top, #0114C4, #001111);
+  background-image: -webkit-gradient(to bottom, #0114C4, #001111);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-family: Georgia;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 16px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_AUS:hover {
+  border: solid #418EFC 1px;
+  background: #1E55BE;
+  background-image: -webkit-linear-gradient(top, #1E55BE, #57D0E1);
+  background-image: -moz-linear-gradient(top, #1E55BE, #57D0E1);
+  background-image: -ms-linear-gradient(top, #1E55BE, #57D0E1);
+  background-image: -o-linear-gradient(top, #1E55BE, #57D0E1);
+  background-image: -webkit-gradient(to bottom, #1E55BE, #57D0E1);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
